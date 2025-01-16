@@ -1,8 +1,8 @@
-- Hello, I’m @AdrianGev and I hate Fusion 360.
-- I’m interested in data science 🤓.
-- I’m currently learning R and Python.
-- I’m not looking to collaborate.
--  I pretty much know Java and JS completely.
+- Hello, I’m @AdrianGev.
+- I’m interested in making awesome stuff do awesome things.
+- I’m currently learning R, and why I'm learning R.
+- I’ll collaborate if you do can do front end.
+- Expert googler.
 
 <!---
 AdrianGev/AdrianGev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
